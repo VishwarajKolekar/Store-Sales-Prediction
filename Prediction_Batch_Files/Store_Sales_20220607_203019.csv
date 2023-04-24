@@ -1,0 +1,10 @@
+Item_Identifier,Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifier,Outlet_Establishment_Year,Outlet_Size,Outlet_Location_Type,Outlet_Type
+FDJ50,8.645,Low Fat,0.021581922,Canned,53.3982,OUT035,2004,Small,Tier 2,Supermarket Type1
+FDV35,19.5,Low Fat,0.128206001,Breads,155.9314,OUT046,1997,Small,Tier 1,Supermarket Type1
+FDW56,7.68,Low Fat,0.071301323,Fruits and Vegetables,190.8162,OUT017,2007,,Tier 2,Supermarket Type1
+DRL35,15.7,Low Fat,0.030765898,Hard Drinks,43.277,OUT045,2002,,Tier 2,Supermarket Type1
+FDR01,5.405,Regular,0.053730029,Canned,199.0742,OUT045,2002,,Tier 2,Supermarket Type1
+FDS24,20.85,Regular,0.062350672,Baking Goods,86.9514,OUT045,2002,,Tier 2,Supermarket Type1
+NCL17,7.39,Low Fat,0.068163102,Health and Hygiene,140.4812,OUT017,2007,,Tier 2,Supermarket Type1
+FDS13,6.465,Low Fat,0,Canned,263.1884,OUT018,2009,Medium,Tier 3,Supermarket Type2
+FDB59,18.25,Low Fat,0.015309885,Snack Foods,197.6084,OUT045,2002,,Tier 2,Supermarket Type1
