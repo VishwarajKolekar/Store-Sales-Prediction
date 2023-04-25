@@ -27,5 +27,8 @@ different stores of Big Mart according to the provided dataset.
 ## Deployment Architecture
 ![deployment architecture](https://user-images.githubusercontent.com/63568546/234317752-e09e6156-0229-4e38-b9bb-79c2161e70fd.png)
 
+## Project Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lSIcdvdsuqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## APP Link
 http://ec2-35-154-14-15.ap-south-1.compute.amazonaws.com/
