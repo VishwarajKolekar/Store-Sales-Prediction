@@ -9,8 +9,9 @@ from env_variable import MONGODB_URL_KEY
 class mongodbOperation:
 
     def __init__(self, logging_db):
-        mongo_db_url = os.getenv(MONGODB_URL_KEY)
-        self.client = pymongo.MongoClient(mongo_db_url)
+        #mongo_db_url = os.getenv(MONGODB_URL_KEY)
+        #self.client = pymongo.MongoClient(mongo_db_url)
+        self.client = pymongo.MongoClient("mongodb+srv://Vishwaraj:eMyH1mQzBDmRmEsD@cluster0.boycfz1.mongodb.net/?retryWrites=true&w=majority")
        
         self.logging_db=logging_db
         self.logging=App_Logger()

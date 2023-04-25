@@ -6,9 +6,9 @@ import os
 class App_Logger:
     def __init__(self):
 
-        mongo_db_url = os.getenv(MONGODB_URL_KEY)
-        self.client = pymongo.MongoClient(mongo_db_url)
-        
+        #mongo_db_url = os.getenv(MONGODB_URL_KEY)
+        #self.client = pymongo.MongoClient(mongo_db_url)
+        self.client = pymongo.MongoClient("mongodb+srv://Vishwaraj:eMyH1mQzBDmRmEsD@cluster0.boycfz1.mongodb.net/?retryWrites=true&w=majority")
 
 
 
