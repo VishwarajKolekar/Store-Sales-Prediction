@@ -30,6 +30,4 @@ different stores of Big Mart according to the provided dataset.
 ## Project Video
 https://youtu.be/lSIcdvdsuqY
 
-## APP Link
-(offline due to aws billing)
-http://ec2-35-154-14-15.ap-south-1.compute.amazonaws.com/
+
